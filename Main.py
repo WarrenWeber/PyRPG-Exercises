@@ -33,6 +33,7 @@ class main:
         self.selectClass()
         self.selectWeapon()
         self.main_Loop()
+        input("Press enter to exit ;)")
 
     def selectClass(self):
         """

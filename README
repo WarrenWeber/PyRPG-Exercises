@@ -1,5 +1,6 @@
 Exercises PyRPG
 
 Execute the file main.py to launch the game.
+There is no Character saving or restoring capability
 
 Python version 3.9
